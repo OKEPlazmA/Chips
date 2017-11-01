@@ -138,6 +138,7 @@ ex.permsList = [
   ['global.moderation.mutes.emojiban', false], // To be added/renamed
   ['global.moderation.mutes.mute', false], // To be added/renamed
   ['global.moderation.mutes.pmute', false],
+  ['global.moderation.nickname', false],
   ['global.moderation.voicemoderation.*', false],
   ['global.moderation.voicemoderation.silence', false],
   ['global.moderation.voicemoderation.unsilence', false],
