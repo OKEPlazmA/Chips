@@ -31,7 +31,7 @@ global.h3client = new Discord.Client();
 global.c2 = new Discord.Client();
 global.c3 = new Discord.Client();
 client.commands = {};
-global.prefix = '-';
+global.prefix = '.';
 if (process.env.BETA == 'true')prefix = '!!';
 global.customprefix = {};
 global.memberjoin = {
